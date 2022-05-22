@@ -1,5 +1,26 @@
 [
   {
+    "title": "The True, the Good, and the Beautiful",
+    "authors": [
+      "Jordan Cooper"
+    ],
+    "publishedDate": "2021-12-29",
+    "image": "https://tse2.mm.bing.net/th?q=The%20True%2C%20the%20Good%2C%20and%20the%20Beautiful%20by%20function%20join()%20%7B%20%5Bnative%20code%5D%20%7D&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "isbn10": "1952295521",
+    "isbn13": "9781952295522",
+    "googleBooks": {
+      "id": "tMe6zgEACAAJ",
+      "preview": "http://books.google.com/books?id=tMe6zgEACAAJ&dq=intitle:In+Defense+Of+The+True,+The+Good,+And+The+Beautiful+by+Jordan+Cooper&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=tMe6zgEACAAJ&dq=intitle:In+Defense+Of+The+True,+The+Good,+And+The+Beautiful+by+Jordan+Cooper&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_True_the_Good_and_the_Beautiful.html?hl=&id=tMe6zgEACAAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-22T11:38:32.000Z"
+  },
+  {
     "title": "Shifting Gears: From Anxiety and Addiction to a Triathlon World Championship",
     "authors": [
       "Adam Hill"
