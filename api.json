@@ -1,5 +1,32 @@
 [
   {
+    "title": "In the Blood",
+    "authors": [
+      "Jack Carr"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2022-05-17",
+    "description": "A woman boards a plane in the African country of Burkina Faso having just completed a targeted assassination for the state of Israel. Two minutes later, her plane is blown out of the sky. Over 6,000 miles away, former Navy SEAL James Reece watches the names and pictures of the victims on cable news. One face triggers a distant memory of a Mossad operative attached to the CIA years earlier in Iraq - a woman Reece thought he would never see again. Reece enlists friends new and old across the globe to track down her killer, unaware that he may be walking into a deadly trap.",
+    "image": "http://books.google.com/books/content?id=L8JrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 480,
+    "isbn10": "1982181656",
+    "isbn13": "9781982181659",
+    "googleBooks": {
+      "id": "L8JrEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=L8JrEAAAQBAJ&printsec=frontcover&dq=intitle:In+the+Blood+by+Jack+Carr&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=L8JrEAAAQBAJ&dq=intitle:In+the+Blood+by+Jack+Carr&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/In_the_Blood.html?hl=&id=L8JrEAAAQBAJ"
+    },
+    "issueNumber": 4,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-22T11:44:29.000Z"
+  },
+  {
     "title": "An Elegant Puzzle",
     "authors": [
       "Will Larson"
